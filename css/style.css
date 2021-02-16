@@ -69,5 +69,9 @@ body {
 
 /*MODEL THREE*/
 .model-three {
-    background-color: indigo;
+    background-color: yellow;
+}
+
+.special-claim {
+    color: green;
 }
