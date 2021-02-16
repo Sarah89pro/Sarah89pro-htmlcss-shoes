@@ -8,3 +8,36 @@
 body {
     font-family: 'Rubik Mono One', sans-serif;
 }
+
+/*LAYOUT*/
+.full-section {
+    position:relative;
+    height: 100vh;
+    /*background-color: red;*/
+    background-size: cover;
+}
+
+.full-section .content {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: yellow;
+    text-align: center;
+    font-size: 35px;
+}
+
+/*MODEL ONE*/
+.model-one {
+    background-color: red;
+}
+
+/*MODEL TWO*/
+.model-two {
+    background-color: green;
+}
+
+/*MODEL THREE*/
+.model-three {
+    background-color: indigo;
+}
