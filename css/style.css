@@ -72,6 +72,6 @@ body {
     background-color: yellow;
 }
 
-.special-claim {
-    color: green;
+main section:last-child .content h1 {
+    color:green;
 }
